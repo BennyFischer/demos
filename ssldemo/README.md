@@ -75,7 +75,7 @@ server {
 ```cmd
 PS C:\nginx-1.18.0> .\nginx.exe -c .\conf\nginx_negative.conf
 ```
-6. Call https://localhost:443 and verify if Nginx is running
+6. Call https://localhost:444 and verify if Nginx is running
 
 To stop Nginx call: 
 ```cmd
